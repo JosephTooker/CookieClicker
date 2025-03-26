@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cookie Clicker</string>
+    <string name="cookies_clicked">Cookies Clicked</string>
+    <string name="total_revenue">Total Revenue</string>
+</resources>
